@@ -11,6 +11,8 @@ var Scene = {
   
   init: function(id) {
 
+    //testus
+
     //prepare the stage!
     this.ELEMENT = document.getElementById(id);
     this.CONTEXT = this.ELEMENT.getContext('2d');
