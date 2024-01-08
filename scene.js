@@ -8,6 +8,7 @@ var Scene = {
 	INTERVAL_ID: null,
   SQUARE_SIZE: 20,
   WARRIORS: [],
+  TILES: 11,
   
   init: function(id) {
 
